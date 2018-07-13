@@ -1,6 +1,6 @@
 ## Aspose.EPS for .NET
 
-[Aspose.EPS for .NET](http://https://products.aspose.com/eps/net) Aspose.EPS for .NET offers converters to convert PS/EPS into PDF Documents.Aspose.EPS is a library that allows converting of PostScript (.ps) and Encapsulated PostScript (.eps) files to PDF documents and vice versa. This API also offers the features to generate Images from EPS/PS files.
+[Aspose.EPS for .NET](http://https://products.aspose.com/eps/net) Aspose.EPS for .NET offers converters to convert PS/EPS into PDF Documents. Aspose.EPS is a library that allows converting of PostScript (.ps) and Encapsulated PostScript (.eps) files to PDF documents and vice versa. This API also offers the features to generate Images from EPS/PS files.
 
 This repository contains [Examples](Examples) projects for [Aspose.EPS for .NET](http://https://products.aspose.com/eps/net) to help you learn and write your own applications.
 
