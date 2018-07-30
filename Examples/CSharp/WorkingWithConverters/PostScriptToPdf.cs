@@ -23,7 +23,7 @@ namespace CSharp.WorkingWithConverters
             // Set page size
             options.PageSize = new System.Drawing.Size(595, 842);
             // If you want to add special folder where fonts are stored. Default fonts folder in OS is always included.
-            options.FontsFolders = new string[] { @"C:\Windows\Fonts\" };
+            options.FontsFolders = new string[] { @"{FONT_FOLDER}" };
             try
             {
                 Ps2PdfConverter converter = new Ps2PdfConverter();
@@ -34,7 +34,7 @@ namespace CSharp.WorkingWithConverters
                 psStream.Close();
                 pdfStream.Close();
             }
-            //Review errors
+            // Review errors
             if (suppressErrors)
             {
                 foreach (Ps2PdfConverterException ex in options.Exceptions)
