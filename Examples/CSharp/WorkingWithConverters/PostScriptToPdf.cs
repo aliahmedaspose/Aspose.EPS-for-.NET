@@ -37,7 +37,7 @@ namespace CSharp.WorkingWithConverters
             // Review errors
             if (suppressErrors)
             {
-                foreach (Ps2PdfConverterException ex in options.Exceptions)
+                foreach (PsConverterException ex in options.Exceptions)
                 {
                     Console.WriteLine(ex.Message);
                 }

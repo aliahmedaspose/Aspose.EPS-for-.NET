@@ -22,7 +22,7 @@ namespace CSharp
             // Getting Started
             // =====================================================
             // =====================================================
-            LoadLicenseFromFile.Run();
+            // LoadLicenseFromFile.Run();
             // LoadLicenseFromStreamObject.Run();
             // SetLicenseUsingEmbeddedResource.Run();
             // SecureLicense.Run();
@@ -32,7 +32,8 @@ namespace CSharp
             // WorkingWithConverters
             // =====================================================
             // =====================================================
-            PostScriptToPdf.Run();
+            // PostScriptToPdf.Run();
+            // PostScriptToImage.Run();
 
             // Stop before exiting
             Console.WriteLine("\n\nProgram Finished. Press any key to exit....");
